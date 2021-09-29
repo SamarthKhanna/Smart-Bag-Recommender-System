@@ -1,0 +1,290 @@
+,Item ID,Major,Minor,Type,Name,Discounted Price,Original price,Discount,Quantity,Sponsored
+0,0,snacks & beverages,biscuits,cookies,"BRITANNIA NutriChoice Oats, Orange Almond Cookies",25,25,0,75.0,False
+1,1,snacks & beverages,biscuits,cookies,BRITANNIA Nice Time Coconut Cookies,23,25,8,150.0,False
+2,2,snacks & beverages,biscuits,cookies,Dukes Kaju Kukkies Cookies,50,100,50,400.0,False
+3,3,snacks & beverages,biscuits,cookies,Priyagold Italiano with Crunchy Choco Chips Cookies,65,65,0,100.0,False
+4,4,snacks & beverages,biscuits,cookies,Priyagold Italiano with Crunchy Coconut Cookies,65,65,0,100.0,False
+5,5,snacks & beverages,biscuits,cream biscuits,Cadbury Chocobakes Choc Cream Filled,51,60,15,150.0,False
+6,6,snacks & beverages,biscuits,cream biscuits,Sunfeast Dark Fantasy Choco Cream Filled,99,140,29,300.0,False
+7,7,snacks & beverages,biscuits,cream biscuits,OREO Choco Biscuits Cream Sandwich,30,30,0,120.0,False
+8,8,snacks & beverages,biscuits,cream biscuits,BRITANNIA Milk Bikis Biscuits Cream Sandwich,42,45,6,200.0,False
+9,9,snacks & beverages,biscuits,cream biscuits,OREO Cadbury Dipped Cookie Cream Sandwich,48,60,20,150.0,False
+10,10,snacks & beverages,biscuits,marie & digestive,BRITANNIA Nutri Choice 5 Grain High Fibre Multigrain Biscuits Digestive,58,65,10,200.0,False
+11,11,snacks & beverages,biscuits,marie & digestive,BRITANNIA Gold Marie Biscuit,32,32,0,250.0,False
+12,12,snacks & beverages,biscuits,marie & digestive,Dukes Digestive,125,250,50,10000.0,False
+13,13,snacks & beverages,biscuits,marie & digestive,BRITANNIA Nutri Choice High Fibre Biscuits Digestive,153,180,15,1000.0,False
+14,14,snacks & beverages,biscuits,marie & digestive,Priyagold Biscuits Digestive,35,65,46,200.0,False
+15,15,snacks & beverages,biscuits,milk & glucose,BRITANNIA Milk Bikis Biscuits Plain,55,65,15,500.0,False
+16,16,snacks & beverages,biscuits,milk & glucose,PARLE G Gold Biscuits Plain,112,125,10,1000.0,False
+17,17,snacks & beverages,biscuits,milk & glucose,PARLE G Original Gluco Biscuits Plain,75,75,0,800.0,False
+18,18,snacks & beverages,biscuits,milk & glucose,PARLE Monaco Classic Plain,102,120,15,800.0,False
+19,19,snacks & beverages,biscuits,milk & glucose,PARLE G Gold Plain,250,250,0,2000.0,True
+20,20,snacks & beverages,biscuits,salted,BRITANNIA Little Hearts Classic Sweet & Salty,17,20,15,75.0,False
+21,21,snacks & beverages,biscuits,salted,BRITANNIA 50-50 Maska Chaska Salted Biscuit,28,30,6,120.0,False
+22,22,snacks & beverages,biscuits,salted,BRITANNIA Nutrichoice Sugar Free Cracker Salted Biscuit,40,45,11,300.0,False
+23,23,snacks & beverages,biscuits,salted,Dukes Cheesy Nibbles Salted Biscuit,41,55,25,150.0,False
+24,24,snacks & beverages,biscuits,salted,PARLE Monaco Salted Biscuit,30,30,0,200.0,True
+25,25,snacks & beverages,biscuits,cheeslets,PARLE Monaco Classic Cheeselets,60,60,0,150.0,False
+26,26,snacks & beverages,biscuits,wafers & rusk,BRITANNIA Toastea NA flavored Sooji Rusk,83,98,15,654.0,True
+27,27,snacks & beverages,biscuits,wafers & rusk,BRITANNIA Premium Sooji Rusk,38,40,5,273.0,False
+28,28,snacks & beverages,biscuits,wafers & rusk,Dukes Waffy Choco Wafer Rolls,75,150,50,250.0,False
+29,29,snacks & beverages,biscuits,wafers & rusk,PARLE Premium Elaichi Rusk,48,48,0,300.0,False
+30,30,snacks & beverages,biscuits,wafers & rusk,BRITANNIA Treat Wafers,17,25,32,75.0,False
+31,31,snacks & beverages,"chips, namkeen & snacks",namkeen,PARLE Aloo Bhujia,99,200,50,750.0,False
+32,32,snacks & beverages,"chips, namkeen & snacks",namkeen,Haldiram's Bhujia,99,99,0,400.0,False
+33,33,snacks & beverages,"chips, namkeen & snacks",namkeen,Haldiram's Navrattan,215,215,0,1000.0,False
+34,34,snacks & beverages,"chips, namkeen & snacks",namkeen,Haldiram's Punjabi Tadka,47,48,2,200.0,True
+35,35,snacks & beverages,"chips, namkeen & snacks",namkeen,KURKURE Puffcorn Yummy Cheese,20,20,0,55.0,False
+36,36,snacks & beverages,"chips, namkeen & snacks",chips,Parle's Cream and Onion Flavour Wafers,30,60,50,150.0,False
+37,37,snacks & beverages,"chips, namkeen & snacks",chips,Too Yumm! Potato Stix Aloo Chat Chips,25,50,50,75.0,False
+38,38,snacks & beverages,"chips, namkeen & snacks",chips,Lay’s Magic Masala Chips,112,150,25,345.0,False
+39,39,snacks & beverages,"chips, namkeen & snacks",chips,Lay's American Style Cream and Onion Chips,120,150,20,345.0,False
+40,40,snacks & beverages,"chips, namkeen & snacks",chips,Uncle Chipps Spicy Treat Chips,19,20,5,40.0,False
+41,41,snacks & beverages,"chips, namkeen & snacks","popcorn, papad & fryums",ACT II Classic Salted Popcorn,55,55,0,180.0,False
+42,42,snacks & beverages,"chips, namkeen & snacks","popcorn, papad & fryums",PUMPUM Panipuri Fryums 250 g,118,120,1,250.0,False
+43,43,snacks & beverages,"chips, namkeen & snacks","popcorn, papad & fryums","ATISH PAPAD - Pani Puri, (Ready to Fry)",40,50,20,200.0,False
+44,44,snacks & beverages,"chips, namkeen & snacks","popcorn, papad & fryums",ATISH PAPAD - Plain,36,45,20,150.0,False
+45,45,snacks & beverages,"chips, namkeen & snacks","popcorn, papad & fryums",ACT II Party Pack Butter Delite Popcorn,120,130,7,450.0,False
+46,46,snacks & beverages,"chips, namkeen & snacks",snacky nuts,Flipkart Supermart Masala Peanuts,85,170,50,400.0,False
+47,47,snacks & beverages,"chips, namkeen & snacks",snacky nuts,Haldiram's Classic Gup Shup Peanuts,50,50,0,200.0,False
+48,48,snacks & beverages,"chips, namkeen & snacks",snacky nuts,Haldiram's Classic Nut Cracker,48,48,0,200.0,False
+49,49,snacks & beverages,"chips, namkeen & snacks",snacky nuts,Haldiram's Masala Peanut,48,48,0,200.0,False
+50,50,snacks & beverages,"chips, namkeen & snacks",snacky nuts,KALEVA Tasty,69,118,41,240.0,False
+51,51,snacks & beverages,tea,tea,Red Label Tea Box,130,130,0,250.0,False
+52,52,snacks & beverages,tea,tea,Taj Mahal Tea Box,294,305,3,500.0,False
+53,53,snacks & beverages,tea,tea,"Tata Teaveda Ayurvedic Goodness Brahmi, Tulsi Tea Box",99,126,21,250.0,False
+54,54,snacks & beverages,tea,tea,Flipkart Supermart Kadak Tea Pouch,215,400,46,1000.0,False
+55,55,snacks & beverages,tea,tea,Waghbakri Premium Leaf Tea Pouch,140,140,0,250.0,False
+56,56,snacks & beverages,tea,tea bags,Taj Mahal Rich Spices Masala Tea Bags Box,155,155,0,25.0,False
+57,57,snacks & beverages,tea,tea bags,Taj Mahal Spicy Ginger Tea Bags Box,155,155,0,25.0,False
+58,58,snacks & beverages,tea,tea bags,Flipkart Supermart Green Tea Bags Box,69,138,50,25.0,False
+59,59,snacks & beverages,tea,tea bags,Taj Mahal Tea Bags Box,200,200,0,100.0,False
+60,60,snacks & beverages,tea,tea bags,tetley Masala Tea Bags Box,208,260,20,50.0,False
+61,61,snacks & beverages,tea,green tea,Lipton Pure & Light Green Tea Bags Box,540,600,10,100.0,False
+62,62,snacks & beverages,tea,green tea,"Lipton Honey, Lemon Green Tea Bags Box",156,165,5,25.0,False
+63,63,snacks & beverages,tea,green tea,"tetley Lemon, Ginger, Mint Green Tea Bags Box",132,165,20,25.0,False
+64,64,snacks & beverages,tea,green tea,"tetley Immune with Added Vitamin C Ginger, Mint, Lemon Green Tea Bags Box",423,550,23,100.0,False
+65,65,snacks & beverages,tea,green tea,Lipton Pure & Light Green Tea Bags Box,540,600,10,100.0,False
+66,66,snacks & beverages,tea,ice tea,Nestea Peach Iced Tea Pouch,190,190,0,400.0,False
+67,67,snacks & beverages,coffee,roast & ground,CONTINENTAL Malgudi 60 Degree Fresh Filter Coffee,80,90,11,200.0,False
+68,68,snacks & beverages,coffee,roast & ground,CONTINENTAL Malgudi 80 Degree Fresh Filter Coffee,94,110,14,200.0,True
+69,69,snacks & beverages,coffee,roast & ground,Deccan Gold Premium Filter Coffee,199,285,30,500.0,False
+70,70,snacks & beverages,coffee,roast & ground,CONTINENTAL Malgudi Filter Coffee,250,250,0,500.0,False
+71,71,snacks & beverages,coffee,roast & ground,iD Traditional Decoction Filter Coffee,95,95,0,150.0,False
+72,72,snacks & beverages,coffee,instant coffee,Sunbean Beaten Instant Coffee,117,130,10,125.0,False
+73,73,snacks & beverages,coffee,instant coffee,Nescafe Classic Instant Coffee,78,78,0,25.0,False
+74,74,snacks & beverages,coffee,instant coffee,CONTINENTAL Xtra Instant Coffee,115,115,0,50.0,False
+75,75,snacks & beverages,coffee,instant coffee,BRU Instant Coffee,170,170,0,100.0,False
+76,76,snacks & beverages,coffee,instant coffee,Tata Grand Instant Coffee,112,150,25,50.0,False
+77,77,snacks & beverages,juices,fruit drinks,Slice Thickest Mango Drink,60,90,33,1750.0,False
+78,78,snacks & beverages,juices,fruit drinks,Priyagold Treat Mango,64,65,1,600.0,False
+79,79,snacks & beverages,juices,fruit drinks,Priyagold Fresh Gold Pineapple,64,110,41,1000.0,False
+80,80,snacks & beverages,juices,fruit drinks,Paper boat Swing Slurpy Mango,38,40,5,600.0,False
+81,81,snacks & beverages,juices,fruit drinks,Priyagold Fresh Gold Guava,64,110,41,1000.0,False
+82,82,snacks & beverages,juices,mixed fruit juices,Real Masala Mixed Fruit,57,115,50,1.0,False
+83,83,snacks & beverages,juices,mixed fruit juices,Real Fruit Juice Mixed,97,110,11,1.0,False
+84,84,snacks & beverages,juices,mixed fruit juices,B Natural Mixed Fruit,82,110,25,1.0,False
+85,85,snacks & beverages,juices,mixed fruit juices,Real Activ 100% Mixed Fruit Juice,110,135,18,1.0,True
+86,86,snacks & beverages,juices,mixed fruit juices,Tropicana Mixed Fruit Delight,99,110,10,1.0,False
+87,87,snacks & beverages,juices,guava juices,Real Masala Guava,52,105,50,1.0,False
+88,88,snacks & beverages,juices,guava juices,Priyagold Fresh Gold Guava,64,110,41,1.0,False
+89,89,snacks & beverages,juices,guava juices,Paper boat Juice - Guava,82,110,25,1.0,False
+90,90,snacks & beverages,juices,guava juices,Tropicana Guava Delight Fruit Beverage,90,100,10,1.0,False
+91,91,snacks & beverages,juices,guava juices,B Natural Guava,93,110,15,1.0,False
+92,92,snacks & beverages,juices,lychee juices,Real Fruit Juice - Litchi,104,110,5,1000.0,False
+93,93,snacks & beverages,juices,lychee juices,B Natural Litchi,93,110,15,1000.0,False
+94,94,snacks & beverages,juices,lychee juices,Tropicana Litchi Delight Fruit Beverage,20,20,0,200.0,False
+95,95,snacks & beverages,juices,lychee juices,Paper boat Lychee Juice,180,180,0,1350.0,False
+96,96,snacks & beverages,juices,orange juices,B Natural Orange - Juice,77,110,30,1.0,False
+97,97,snacks & beverages,juices,orange juices,Real Fruit Juice - Orange,97,110,11,1.0,False
+98,98,snacks & beverages,juices,orange juices,Priyagold Fresh Gold Orange,64,110,41,1.0,False
+99,99,snacks & beverages,juices,orange juices,Real Activ 100% Orange Juice,110,135,18,1.0,False
+100,100,snacks & beverages,juices,orange juices,Tropicana Orange Delight Fruit Beverage,99,110,10,1.0,False
+101,101,snacks & beverages,juices,apple juices,Real Activ 100% Apple Juice,110,135,18,1000.0,False
+102,102,snacks & beverages,juices,apple juices,Tropicana 100% Apple Juice,30,30,0,200.0,False
+103,103,snacks & beverages,juices,apple juices,Tropicana Apple Delight Fruit Beverage,105,105,0,1000.0,False
+104,104,snacks & beverages,juices,apple juices,Real Fruit Juice - Apple,105,105,0,1000.0,False
+105,105,snacks & beverages,juices,apple juices,Real Fruit Juice Apple,20,20,0,180.0,True
+106,106,snacks & beverages,juices,cold pressed juices,Real Activ 100% Apple Juice,110,135,18,1000.0,False
+107,107,snacks & beverages,juices,cold pressed juices,Tropicana 100% Apple Juice,30,30,0,200.0,False
+108,108,snacks & beverages,juices,cold pressed juices,Raw Pressery Coconut Water,60,60,0,200.0,False
+109,109,snacks & beverages,juices,cold pressed juices,Raw Pressery Sugarcane Juice,189,220,14,1000.0,False
+110,110,snacks & beverages,juices,cold pressed juices,Tropicana 100% Orange Juice,30,30,0,200.0,False
+111,111,snacks & beverages,juices,other juices,Real Masala Mixed Fruit,57,115,50,1000.0,False
+112,112,snacks & beverages,juices,other juices,Real Masala Pomegranate,60,120,50,1000.0,True
+113,113,snacks & beverages,juices,other juices,Real Masala Guava,52,105,50,1000.0,False
+114,114,snacks & beverages,juices,other juices,Slice Thickest Mango Drink,60,90,33,1750.0,False
+115,115,snacks & beverages,juices,other juices,Priyagold Treat Mango,64,65,1,600.0,False
+116,116,snacks & beverages,health drink mix,health drink mix,Pediasure Premium Chocolate Health Drink,315,315,0,200.0,False
+117,117,snacks & beverages,health drink mix,health drink mix,Cadbury Bournvita 5 Star Magic,325,325,0,750.0,False
+118,118,snacks & beverages,health drink mix,health drink mix,Cadbury Bournvita Health Drink Pouch,299,310,3,750.0,False
+119,119,snacks & beverages,health drink mix,health drink mix,Cadbury Bournvita Inner strength formula,350,380,7,1000.0,False
+120,120,snacks & beverages,health drink mix,health drink mix,Manna Badam Mix,125,250,50,400.0,False
+121,121,snacks & beverages,soft drinks,cold drinks,Thums Up Can,33,35,5,300.0,False
+122,122,snacks & beverages,soft drinks,cold drinks,Pepsi Black Can,27,30,10,250.0,True
+123,123,snacks & beverages,soft drinks,cold drinks,MiRiNDA Plastic Bottle,89,90,1,2000.0,True
+124,124,snacks & beverages,soft drinks,cold drinks,Mountain Dew Can,27,30,10,250.0,True
+125,125,snacks & beverages,soft drinks,cold drinks,Pepsi Can,27,30,10,250.0,False
+126,126,snacks & beverages,soft drinks,energy & sports drinks,Glucose-D Vitamin D Plus Calcium Energy Drink,149,199,25,1000.0,False
+127,127,snacks & beverages,soft drinks,energy & sports drinks,GLUCON-D Instant Energy Drink,146,163,10,450.0,False
+128,128,snacks & beverages,soft drinks,energy & sports drinks,Nestle MILO Activ-Go Powder Pouch Nutrition Drink,215,215,0,400.0,True
+129,129,snacks & beverages,soft drinks,energy & sports drinks,GLUCON-D Instant Energy Drink,310,330,6,1000.0,False
+130,130,snacks & beverages,soft drinks,energy & sports drinks,GLUCON-D Energy Drink,146,163,10,450.0,False
+131,131,snacks & beverages,soft drinks,non alcoholic drinks,Budweiser Non-Alcoholic Can,1,80,98,330.0,True
+132,132,snacks & beverages,soft drinks,non alcoholic drinks,Heineken Alcohol Free Beer Can,52,75,30,330.0,False
+133,133,snacks & beverages,soft drinks,non alcoholic drinks,Heineken Non Alcohol Beer Can,315,450,30,1980.0,False
+134,134,snacks & beverages,soft drinks,non alcoholic drinks,Heineken Alcohol Free Glass Bottle,90,120,25,330.0,False
+135,135,snacks & beverages,soft drinks,non alcoholic drinks,Kingfisher Radler Lemon Non-Alcoholic Glass Bottle,59,70,15,300.0,False
+136,136,snacks & beverages,"instant drink mixes, squash & syrups",instant drink mixes,TANG Orange Instant Drink Mix,114,135,15,500.0,False
+137,137,snacks & beverages,"instant drink mixes, squash & syrups",instant drink mixes,Nestea Iced Tea Lemon,180,180,0,400.0,False
+138,138,snacks & beverages,"instant drink mixes, squash & syrups",instant drink mixes,TANG Mango Instant Drink Mix,128,135,5,500.0,False
+139,139,snacks & beverages,"instant drink mixes, squash & syrups",instant drink mixes,TANG Lemon Instant Drink Mix,128,135,5,500.0,False
+140,140,snacks & beverages,"instant drink mixes, squash & syrups",instant drink mixes,Rasna Instant Orange,163,240,32,750.0,False
+141,141,snacks & beverages,"instant drink mixes, squash & syrups",squash,Rasna Nagpur Orange (32 Glasses),44,44,0,25.0,True
+142,142,snacks & beverages,"instant drink mixes, squash & syrups",squash,Rasna Alphonso Mango (32 Glasses),44,44,0,25.0,True
+143,143,snacks & beverages,"instant drink mixes, squash & syrups",squash,Rasna 21 Orange Power Squash,129,140,7,750.0,False
+144,144,snacks & beverages,"instant drink mixes, squash & syrups",squash,Rasna Fruit Plus 21 Mango Power Squash,129,140,7,750.0,False
+145,145,snacks & beverages,"instant drink mixes, squash & syrups",squash,Rasna American Pineapple (32 Glasses),44,44,0,25.0,False
+146,146,snacks & beverages,"instant drink mixes, squash & syrups",syrups,HERSHEY'S Chocolate Flavor Syrup Chocolate,83,95,12,200.0,False
+147,147,snacks & beverages,"instant drink mixes, squash & syrups",syrups,Rooh Afza Sharbat Rose,148,150,1,750.0,False
+148,148,snacks & beverages,"instant drink mixes, squash & syrups",syrups,HERSHEY'S Genuine Chocolate Chocolate,193,220,12,623.0,False
+149,149,snacks & beverages,"instant drink mixes, squash & syrups",syrups,Veeba Fudge Topping Chocolate,112,161,30,380.0,False
+150,150,snacks & beverages,"instant drink mixes, squash & syrups",syrups,LION DATES SYRUP Plain,380,380,0,1000.0,False
+151,151,snacks & beverages,water,mineral water,Himalayan Natural Mineral Water,13,17,23,200.0,False
+152,152,snacks & beverages,water,mineral water,Himalayan Live Natural Mineral Water,28,35,20,500.0,False
+153,153,snacks & beverages,water,mineral water,Himalayan Still Mineral Water,160,200,20,750.0,False
+154,154,snacks & beverages,water,mineral water,Himalayan Still Mineral Water,80,100,20,300.0,False
+155,155,snacks & beverages,water,mineral water,Himalayan Sparkling Mineral Water,88,110,20,300.0,True
+156,156,packaged food,breakfast cereals,flakes,Kellogg's Corn Flakes Real Almond & Honey,525,550,4,1000.0,False
+157,157,packaged food,breakfast cereals,flakes,Kellogg's Crunchy Granola Chocolate & Almonds,330,330,0,450.0,False
+158,158,packaged food,breakfast cereals,flakes,Kellogg's Chocos,109,125,12,250.0,False
+159,159,packaged food,breakfast cereals,flakes,Kwality Choco Flakes,249,499,50,1000.0,False
+160,160,packaged food,breakfast cereals,flakes,Kwality Corn Flakes,199,398,50,1000.0,True
+161,161,packaged food,breakfast cereals,muesli,Kwality Crunchy Muesli Fruit N Nut,280,560,50,1000.0,False
+162,162,packaged food,breakfast cereals,muesli,"Kellogg's Muesliwith 21% Fruit, Nut & Seeds",294,325,9,500.0,False
+163,163,packaged food,breakfast cereals,muesli,Kwality Muesli Crunchy,280,560,50,1000.0,False
+164,164,packaged food,breakfast cereals,muesli,Yogabar Dark Chocolate & Cranberry Muesli,399,499,20,700.0,False
+165,165,packaged food,breakfast cereals,muesli,"Kwality Almonds, Raisins and Honey Muesli",219,449,51,700.0,False
+166,166,packaged food,breakfast cereals,oats,True Elements Dark Chocolate Granola,19,60,68,60.0,False
+167,167,packaged food,breakfast cereals,oats,Quaker Oats with Flavour Mix,41,49,16,200.0,False
+168,168,packaged food,breakfast cereals,oats,Saffola Classic Masala Oats,175,195,10,500.0,False
+169,169,packaged food,breakfast cereals,oats,Quaker Oats,180,195,7,1000.0,False
+170,170,packaged food,breakfast cereals,oats,"Saffola Oats, Rolled Oats, 100% natural",89,89,0,500.0,False
+171,171,packaged food,breakfast cereals,cereal bars,Nature Valley Oats N Honey Crunchy Granola Bars,306,360,15,252.0,False
+172,172,packaged food,breakfast cereals,cereal bars,Nature Valley Oats and Dark Chocolate Crunchy Granola Bars,306,360,15,252.0,False
+173,173,packaged food,breakfast cereals,cereal bars,Yogabar Almond Fudge Protein Bar,112,125,10,60.0,False
+174,174,packaged food,breakfast cereals,cereal bars,RiteBite Max Protein Choco Almond Bar,49,65,24,50.0,True
+175,175,packaged food,breakfast cereals,cereal bars,RiteBite Max Protein Daily Choco Berry Bars,273,360,24,300.0,False
+176,176,packaged food,noodles & pasta,noodles,Maggi Masala Instant Noodles Vegetarian,136,144,5,84.0,False
+177,177,packaged food,noodles & pasta,noodles,Sunfeast Yippee Magic Masala Instant Noodles Vegetarian,91,144,36,810.0,False
+178,178,packaged food,noodles & pasta,noodles,Maggi 2 Minute Special Masala Instant Noodles Vegetarian,15,15,0,70.0,True
+179,179,packaged food,noodles & pasta,noodles,Ching's Secret Veg Hakka Noodles Vegetarian,85,107,20,600.0,False
+180,180,packaged food,noodles & pasta,noodles,Maggi Nutri licious Atta Masala Instant Noodles Vegetarian,128,140,8,435.0,False
+181,181,packaged food,noodles & pasta,pasta,24 Mantra Whole Wheat Flour Pasta,50,80,30,400.0,False
+182,182,packaged food,noodles & pasta,pasta,24 Mantra Organic Whole Wheat Flour Pasta,56,80,30,400.0,False
+183,183,packaged food,noodles & pasta,pasta,Flipkart Supermart Durum Wheat Semolina Penne Pasta,55,160,65,400.0,False
+184,184,packaged food,noodles & pasta,pasta,Maggi Cheese Macaroni Pasta,28,28,0,70.0,False
+185,185,packaged food,noodles & pasta,pasta,YIPPEE Tricolor Masala Pasta,22,25,12,65.0,False
+186,186,packaged food,noodles & pasta,vermicelli,MTR Vermicelli,67,80,16,850.0,False
+187,187,packaged food,noodles & pasta,vermicelli,Rajdhani Long Cut Vermicelli,20,20,0,150.0,False
+188,188,packaged food,noodles & pasta,vermicelli,Bambino Vermicelli,82,89,7,875.0,False
+189,189,packaged food,noodles & pasta,vermicelli,Rajdhani Short_Cut Vermicelli,70,70,0,900.0,False
+190,190,packaged food,noodles & pasta,vermicelli,MTR Rice Vermicelli,50,50,0,400.0,False
+191,191,packaged food,ketchups & spreads,ketchups,ChefBoss Chilli Chinese Stir Fry Sauce & Dip,67,75,10,200.0,False
+192,192,packaged food,ketchups & spreads,ketchups,ChefBoss Kung Pao Cooking Sauce,67,75,10,200.0,False
+193,193,packaged food,ketchups & spreads,ketchups,Del Monte Tomato Classic Blend Ketchup,79,115,31,800.0,True
+194,194,packaged food,ketchups & spreads,ketchups,Kissan Fresh Tomato Ketchup,110,120,8,950.0,False
+195,195,packaged food,ketchups & spreads,ketchups,SMITH & JONES Tomato Ketchup,91,130,30,1000.0,False
+196,196,packaged food,ketchups & spreads,dips & spreads,24 Mantra Peanut Butter Creamy,280,400,30,800.0,False
+197,197,packaged food,ketchups & spreads,dips & spreads,St. Dalfour Raspberry Fruit Spread,350,350,0,284.0,False
+198,198,packaged food,ketchups & spreads,dips & spreads,WINGREENS Premium Veg Mayo,99,199,50,800.0,False
+199,199,packaged food,ketchups & spreads,dips & spreads,Wingreens Farms Pizza 'N' Pasta Sauce,74,149,50,450.0,False
+200,200,packaged food,ketchups & spreads,dips & spreads,VEEBA Eggless Mayonnaise Chef's Special,147,189,22,875.0,False
+201,201,packaged food,ketchups & spreads,dressing sauce,FUN FOODS American Mustard,69,69,0,260.0,False
+202,202,packaged food,ketchups & spreads,dressing sauce,VEEBA Chipotle Southwest Dressing Sauce,161,161,0,300.0,True
+203,203,packaged food,ketchups & spreads,dressing sauce,VEEBA Barbeque Sauce,141,141,0,330.0,False
+204,204,packaged food,ketchups & spreads,dressing sauce,VEEBA White Pasta Dressing Sauce,99,99,0,285.0,False
+205,205,packaged food,ketchups & spreads,dressing sauce,VEEBA Honey Mustard Dressing Sauce,161,161,0,300.0,False
+206,206,packaged food,chocolates & sweets,chocolates,BOUNTY Miniatures Bars,179,199,10,170.0,False
+207,207,packaged food,chocolates & sweets,chocolates,Cadbury Dairy Milk Silk Fruit and Nut Bars,160,160,0,137.0,False
+208,208,packaged food,chocolates & sweets,chocolates,Cadbury Dairy Milk Home Treats Chocolate Bars,111,149,25,126.0,False
+209,209,packaged food,chocolates & sweets,chocolates,Cadbury Dairy Milk Silk Oreo Chocolate Bars,148,175,15,130.0,False
+210,210,packaged food,chocolates & sweets,chocolates,Nestle Munch Bars,100,100,0,208.0,False
+211,211,packaged food,chocolates & sweets,sweets & mithai,Lalji Sponge Rasogolla,157,315,50,1000.0,False
+212,212,packaged food,chocolates & sweets,sweets & mithai,BHIKHARAM CHANDMAL Rasgulla Tin - 1kg (Pack of 1) Tin,150,300,50,1000.0,False
+213,213,packaged food,chocolates & sweets,sweets & mithai,BHIKHARAM CHANDMAL Gulab jamun Tin - (Pack of 1) Tin,150,300,50,1000.0,False
+214,214,packaged food,chocolates & sweets,sweets & mithai,Paper boat Daily Snack Chikki Pouch,165,275,40,496.0,False
+215,215,packaged food,chocolates & sweets,sweets & mithai,Lal Mysore Pak Classic Box,199,399,50,400.0,False
+216,216,packaged food,chocolates & sweets,candy & gums,Skittles Wild Berry Candy,45,50,10,33.6,False
+217,217,packaged food,chocolates & sweets,candy & gums,Orbit Sugar Free Sweet Mint Chewing Gum,46,50,8,22.0,False
+218,218,packaged food,chocolates & sweets,candy & gums,Alpenliebe Strawberry Jelly Candy,40,50,20,148.0,False
+219,219,packaged food,chocolates & sweets,candy & gums,Alpenliebe Gold Rich Milky Caramel Toffee,85,100,15,390.0,False
+220,220,packaged food,chocolates & sweets,candy & gums,Candyman Fruiteefun Multi Flavor,112,150,25,810.0,False
+221,221,packaged food,chocolates & sweets,mouth freshner,Doublemint Chewy Peppermint Mouth Freshener,100,100,0,80.85,False
+222,222,packaged food,chocolates & sweets,mouth freshner,Doublemint Chewy Lemon Mint,100,100,0,80.85,False
+223,223,packaged food,chocolates & sweets,mouth freshner,Polo Mint,10,10,0,24.0,False
+224,224,packaged food,chocolates & sweets,mouth freshner,Delight nuts Icecream Mukhwas Vanilla Mouth Freshener,77,110,30,150.0,False
+225,225,packaged food,chocolates & sweets,mouth freshner,Delight nuts Saptrangee Mukhwas Mint Mouth Freshener,69,99,30,150.0,False
+226,226,packaged food,chocolates & sweets,cake,Cadbury Chocobakes Chocolate Cake,54,60,10,126.0,False
+227,227,packaged food,chocolates & sweets,cake,BRITANNIA Gobbles Fruit Cake,49,55,10,220.0,False
+228,228,packaged food,chocolates & sweets,cake,BRITANNIA Treat Cocoa Creme Roll Croissants,12,15,20,45.0,True
+229,229,packaged food,chocolates & sweets,cake,BRITANNIA Treat Creme Roll Vanilla Croissants,12,15,20,45.0,False
+230,230,packaged food,chocolates & sweets,cake,winkies Swiss Roll Chocolate Cake,68,80,15,175.0,False
+231,231,packaged food,jams & honey,jams,Kissan Orange Marmalade,165,165,0,500.0,False
+232,232,packaged food,jams & honey,jams,Kissan Mango Jam,165,165,0,490.0,False
+233,233,packaged food,jams & honey,jams,Apis Fruit Blast,101,199,49,700.0,False
+234,234,packaged food,jams & honey,jams,Kissan Mixed Fruit Jam,68,68,0,200.0,False
+235,235,packaged food,jams & honey,jams,Apis Mixed Fruit Jam,153,170,10,450.0,False
+236,236,packaged food,jams & honey,honey,Apis Honey,247,275,10,500.0,False
+237,237,packaged food,jams & honey,honey,Dabur Honey Squeezy,297,330,10,400.0,False
+238,238,packaged food,jams & honey,honey,Dabur Honey,387,430,10,1000.0,False
+239,239,packaged food,jams & honey,honey,PATANJALI Honey,165,165,0,500.0,False
+240,240,packaged food,jams & honey,honey,Apis Himalaya Honey Squeezy,118,120,1,300.0,False
+241,241,packaged food,pickles & chutney,pickles,Umadi's Mango Pickle,82,165,50,500.0,False
+242,242,packaged food,pickles & chutney,pickles,Flipkart Supermart Mixed Pickle,90,180,50,400.0,False
+243,243,packaged food,pickles & chutney,pickles,Flipkart Supermart Mango Pickle,100,200,50,400.0,False
+244,244,packaged food,pickles & chutney,pickles,Top's Mixed Pickle,140,165,15,950.0,False
+245,245,packaged food,pickles & chutney,pickles,Umadi's Mixed Vegetable Pickle,82,165,50,500.0,False
+246,246,packaged food,pickles & chutney,chutney,Ching's Secret Schezwan Chutney Paste,68,80,15,250.0,False
+247,247,packaged food,pickles & chutney,chutney,Dabur Hommade Chatpati Chutney Paste,55,55,0,200.0,False
+248,248,packaged food,pickles & chutney,chutney,MOTHER'S RECIPE Bhelpuri Chutney Paste,50,55,9,200.0,False
+249,249,packaged food,pickles & chutney,chutney,MOTHER'S RECIPE Delhi Chaat Chutney Paste,50,55,9,200.0,True
+250,250,packaged food,pickles & chutney,chutney,Dabur Hommade Spicy Garlic Chutney Paste,65,65,0,200.0,False
+251,251,packaged food,ready to cook,soups,Knorr Tomato Chatpata Cup-a-Soup,10,10,0,14.0,False
+252,252,packaged food,ready to cook,soups,Knorr Sweet Corn Veg Cup-a-Soup,10,10,0,10.0,False
+253,253,packaged food,ready to cook,soups,Knorr Manchow Soup,10,10,0,12.0,False
+254,254,packaged food,ready to cook,soups,Ching's Secret Instant Soup,39,50,22,76.0,True
+255,255,packaged food,ready to cook,soups,Knorr Mixed Vegetable Cup-a-Soup,10,10,0,10.0,False
+256,256,packaged food,ready to cook,ready mixes,AASHIRVAAD Instant Mix - Gulab Jamun,110,220,50,500.0,False
+257,257,packaged food,ready to cook,ready mixes,MTR Gulab Jamun Mix,130,130,0,160.0,False
+258,258,packaged food,ready to cook,ready mixes,AASHIRVAAD Rava Idli Instant Mix,77,115,33,500.0,False
+259,259,packaged food,ready to cook,ready mixes,MTR Ready Mix Rava Idli,193,225,14,1000.0,False
+260,260,packaged food,ready to cook,ready mixes,MTR Instant Dosa Mix,110,125,12,500.0,False
+261,261,packaged food,ready to cook,ready meals,Fortune Bengali Bhog Khichuri,45,55,18,200.0,False
+262,262,packaged food,ready to cook,ready meals,Fortune Gujarati Khichdi,45,55,18,200.0,False
+263,263,packaged food,ready to cook,ready meals,MTR Vegetable Upma,16,25,36,60.0,False
+264,264,packaged food,ready to cook,ready meals,Tata Q Hot and Spicy Schezwan Noodles with Veggies,66,99,33,290.0,False
+265,265,packaged food,ready to cook,ready meals,MTR Poha,16,25,36,60.0,False
+266,266,packaged food,ready to cook,canned food,Del Monte Whole Green Olives,225,225,0,450.0,False
+267,267,packaged food,ready to cook,canned food,Del Monte Baked Beans,110,110,0,450.0,True
+268,268,packaged food,ready to cook,canned food,American Garden Plain Bread Crumbs,188,190,1,425.0,False
+269,269,packaged food,cooking sauces & vinegar,cooking sauce,Ching's Secret Green Chilli Sauce,68,85,20,680.0,True
+270,270,packaged food,cooking sauces & vinegar,cooking sauce,Ching's Secret Red Chilli Sauce,68,85,20,680.0,False
+271,271,packaged food,cooking sauces & vinegar,cooking sauce,Ching's Secret Dark Soy Sauce,49,55,10,210.0,False
+272,272,packaged food,cooking sauces & vinegar,cooking sauce,FUN FOODS Pasta & Pizza Sauce,89,89,0,325.0,False
+273,273,packaged food,cooking sauces & vinegar,cooking sauce,WeiKFiELD Green Chilli Sauce,49,55,10,200.0,False
+274,274,packaged food,cooking sauces & vinegar,vinegar,Top's Premium Synthetic White Vinegar,54,54,0,610.0,False
+275,275,packaged food,cooking sauces & vinegar,vinegar,Ching's Secret Chilli Vinegar,45,50,10,170.0,False
+276,276,packaged food,cooking sauces & vinegar,vinegar,DiSano Apple Cider Vinegar Filtered Vinegar,120,240,50,500.0,False
+277,277,packaged food,cooking sauces & vinegar,vinegar,DiSano Apple Cider Vinegar With Mother Vinegar Vinegar,169,495,65,500.0,False
+278,278,packaged food,cooking sauces & vinegar,vinegar,WeiKFiELD Chilli Vinegar,45,50,10,200.0,False
+279,279,packaged food,baking,baking ingredients,Solar Dry Active Yeast Powder,42,60,30,40.0,True
+280,280,packaged food,baking,baking ingredients,Kwality Baking Soda Powder,20,25,20,100.0,False
+281,281,packaged food,baking,baking ingredients,Solar Cocoa Powder,50,72,30,50.0,False
+282,282,packaged food,baking,baking ingredients,HERSHEY'S Cocoa Powder,229,270,15,225.0,False
+283,283,packaged food,baking,baking ingredients,WeiKFiELD Double Action Baking Powder,33,33,0,100.0,False
+284,284,packaged food,baking,ready baking mixes,Betty Crocker Complete Pancake Mix,96,105,8,250.0,False
+285,285,packaged food,baking,ready baking mixes,Betty Crocker Triple Choco Brownie Mix,303,330,8,425.0,False
+286,286,packaged food,baking,ready baking mixes,Betty Crocker Pancake Mix,180,205,10,500.0,False
+287,287,packaged food,baking,ready baking mixes,WeiKFiELD Cooker Cake Mix Chocolate,80,95,15,150.0,False
+288,288,packaged food,baking,ready baking mixes,Pillsbury Choco Cooker Cake Mix,95,100,5,159.0,False
