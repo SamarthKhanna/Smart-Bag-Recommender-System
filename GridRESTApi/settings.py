@@ -84,8 +84,11 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'grid_db',
-        'HOST': '127.0.0.1',
-        'PORT': 27017
+        'CLIENT': {
+            'host': 'mongodb+srv://kush:Hellolife1234@grid-data.h6mlz.mongodb.net/grid_db?retryWrites=true&w=majority',
+            'username': 'kush',
+            'password': 'Hellolife1234'
+        }
     }
 }
 

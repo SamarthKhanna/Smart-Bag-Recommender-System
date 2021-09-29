@@ -87,15 +87,26 @@ def load_front_page(request):
             dicts[val] = pro_serialized.data
         products = Products.objects.all()
         products = ProductSerializer(products,many=True).data
-        products = products.group_by('major')
+        products = get_pro_by_cat(products)
         print(products)
-        return JsonResponse(dicts,safe = False)
+        front_page = {**products,**dicts}
+        return JsonResponse(front_page,safe = False)
 
 
-def get_pro_by_cat(cat):
-    pros = Products.objects.filter(major = cat)
-    pro_serialized = ProductSerializer(pros,many = True)
-    return pro_serialized.data
+def get_pro_by_cat(prods):
+    tree = {}
+    for prod in prods:
+        major = prod['major']
+        minor = prod['minor']
+        ptype = prod['typeP']
+        if major not in tree:
+            tree[major] = {}
+        if minor not in tree[major]:
+            tree[major][minor] = {}
+        if ptype not in tree[major][minor]:
+            tree[major][minor][ptype] = []
+        tree[major][minor][ptype].append(prod)
+    return tree      
 
 
 def group_by_order_id(input_list):
